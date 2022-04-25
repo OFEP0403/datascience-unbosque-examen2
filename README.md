@@ -12,11 +12,11 @@ Preguntas seleccionadas:
 
 1. ¿Cual es el total de victimas por año?
 
-![image](https://user-images.githubusercontent.com/93018869/165029963-6d1e12cc-2c5e-4416-b4bf-83ee29436703.png)
+![image](https://user-images.githubusercontent.com/93018869/165030154-b48fb871-a7cf-4801-9d70-f8a6d13fe28d.png)
 
 2. ¿Cual es el porcentaje de incremento de victimas, con respecto al año anterior?
 
-![image](https://user-images.githubusercontent.com/93018869/165030030-c3d7c3ba-b1b4-4a53-84ac-b43c94593728.png)
+![image](https://user-images.githubusercontent.com/93018869/165030137-a4f5acc0-a53e-4fcf-bb2d-887cbc2c7054.png)
 
 3. ¿Cual es el departamento de Colombia que más victimas ha tenido?
 
